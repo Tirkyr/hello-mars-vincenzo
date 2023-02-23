@@ -1,3 +1,3 @@
 module.exports = function helloMars() {
-  console.log("Hello Mars");
+  console.log("Hello Mars!");
 };
