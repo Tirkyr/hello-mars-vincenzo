@@ -1,0 +1,22 @@
+{
+  "name": "hello-mars-vincenzo",
+  "version": "1.0.0",
+  "description": "Say hello to Mars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tirkyr/hello-mars-vincenzo.git"
+  },
+  "keywords": [
+    "mars"
+  ],
+  "author": "Vincenzo Delluniversità",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tirkyr/hello-mars-vincenzo/issues"
+  },
+  "homepage": "https://github.com/Tirkyr/hello-mars-vincenzo#readme"
+}
